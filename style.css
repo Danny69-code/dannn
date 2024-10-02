@@ -1,0 +1,20 @@
+head, body, footer {
+    color: white; background-color: black;
+}
+
+img {
+    height: 100px; float: left;
+}
+
+.about {margin-right: 15%; margin-left: 8%;
+
+}
+
+.contact-form
+{
+    float:left
+}
+
+.map{
+    margin-left: 15%;
+}
